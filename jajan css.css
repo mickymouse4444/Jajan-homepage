@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+#jajanlogo {
+	float: left;
+}
+
+#buttons {
+	padding: 0;
+	margin: 0;
+	float: right;
+}
+
+#logo {
+	height: 100px;
+}
+
+ul{
+	margin-top: 50px;
+	margin-right: 0;
+	margin-left: 0;
+	margin-bottom: 0;
+}
+
+ul li{
+	display: inline;
+	text-decoration: none;
+	color: #000000;
+	background-color:lightblue;
+	border: 2px black solid;
+	border-radius:5px;
+	padding: 10px;
+}
+
+li > a {
+	text-decoration:inherit;
+	color: inherit;
+}
+
+#scrollingImages {
+}
